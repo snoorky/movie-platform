@@ -26,4 +26,4 @@ The project offers the following features:
 
 The layout was developed in a responsive way to ensure a great experience on mobile devices and desktops. You can check out the live preview by clicking the link below:
 
-[🔗 Access the live project](https://snoorky.github.io/cinefy)
+[🔗 Access the live project](https://snoorky.github.io/movie-platform/)
