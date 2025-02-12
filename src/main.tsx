@@ -7,7 +7,7 @@ import Details from './pages/Details.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/movie-platform">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/details/:id" element={<Details />} />
